@@ -1,10 +1,10 @@
 ### Hi there, I'm Jean-Christophe 👋
 
-I'm a software engineer with a sweet spot for Data.
+I enjoy building stuff with software and data, and I've been doing so for nearly a decade.
 
-I like to build data-centric products with Python as my primary language. I use Flask quite a lot, do a bunch of query-building with SQLAlchemy or even raw SQL, can throw in a bit of Machine Learning when needed (which is not that often it turns out), and build a modern front-end with Vue.js and Nuxt.js.
+Python as my primary language. I use Flask quite a lot, do a bunch of query-building in dbt and BigQuery or even SQLAlchemy. I can throw in a bit of Machine Learning when needed (which is not that often it turns out), and build a modern front-end with Vue.js and Nuxt.js (although this is clearly my weak spot).
 
-Over the years, I've worked in a consulting company and then a startup, holding leadership positions. I'm freelancing and working toward the beta release of my open-source project, flask-jeroboam.
+Over the years, I have led multiple teams of various sizes and profiles, helping them grow and achieve our goals.
 
 In another life, I was a PhD student studying how organisations either foster or hinder individual creativity. I now experience it first-hand in technical teams and find it far more interesting this way.
 <!--
